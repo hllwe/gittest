@@ -1,4 +1,4 @@
-# 一级标题
+﻿# 一级标题
 
 ## 二级标题
 
@@ -21,19 +21,8 @@
 + 张艺兴
 	- LAY
 	- 小绵羊
-1. 老大
-2. 老二
-3. 老三
 
-[baidu](http://baidu.com)
 
-![图片](https://www.baidu.com/img/bd_logo1.png)
----
-
-```js
-function show(){
-
-}
 ```
 
 ```html
