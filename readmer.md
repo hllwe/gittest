@@ -28,4 +28,24 @@
 [baidu](http://baidu.com)
 
 ![图片](https://www.baidu.com/img/bd_logo1.png)
+---
 
+```js
+function show(){
+
+}
+```
+
+```html
+<p>样式
+	<a href="http://baidu.com">链接</a>
+</p>
+```
+
+`alert('hello')`
+
+
+header 1 | header 2 | header 3
+--- | --- | --- |
+row 1 col 1 | row 2 col 2 | 3
+row 2 col 1 | row 2 col 2 | 3
