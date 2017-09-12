@@ -27,7 +27,7 @@
 
 ```html
 <p>样式
-	<a href="http://baidu.com">链接</a>
+	<a href="http://baidu.com">接</a>
 </p>
 ```
 
